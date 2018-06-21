@@ -1,8 +1,8 @@
 # FacePlusPlus-React-Demo
 There are two parts of this demo.
 
-A Python API (with flask)
-A front end Ract App.
+* A Python API (with flask)
+* A front end Ract App.
 Here, I will discuss the backend which is the api part. For front end, click (https://github.com/zainulabidin302/python-sdk)[here].
 # How to use FacePlusPlus for facial recognition
  FacePluPlus made face recognition as easy as a piece of cake. in this demo, I will help you to build a simple demo which can easily be extened to a complete Attendence Mangement System for with FaceID as a login method. Sounds intereasting?
